@@ -1,0 +1,4 @@
+﻿  pcl2ply.cpp
+  Unknown compiler version - please run the configure tests and report the results
+e:\牙\pcl\pcl 1.8.1\include\pcl-1.8\pcl\point_traits.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Pclpointshow.vcxproj -> D:\vc2015project\Pclpointshow\x64\Debug\Pclpointshow.exe
